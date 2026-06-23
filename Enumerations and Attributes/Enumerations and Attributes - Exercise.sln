@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11822.322 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardSuitExplorer", "01. Card Suit\CardSuitExplorer.csproj", "{0D799EF4-C12F-44FF-8F35-C4E3BCF83401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardRankExplorer", "02. Card Rank\CardRankExplorer.csproj", "{86FB1525-D9C8-4EA6-86DA-A37D4E7569FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardPowerExplorer", "03. Card Power\CardPowerExplorer.csproj", "{92CAC921-2AB3-4293-BBA1-DF565313A8D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traffic Lights", "09. Traffic Lights\Traffic Lights.csproj", "{6D4B3BB7-0723-494A-8D88-1B10529EC543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfernoInfinity", "11. Inferno Infinity\InfernoInfinity.csproj", "{8CEE1899-A227-46E6-A72B-AE7ED0E5DF20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomClassAttributeSystem", "10. Create Custom Class Attribute\CustomClassAttributeSystem.csproj", "{900215D2-76A7-46BD-AD62-A3A02B608627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D799EF4-C12F-44FF-8F35-C4E3BCF83401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D799EF4-C12F-44FF-8F35-C4E3BCF83401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D799EF4-C12F-44FF-8F35-C4E3BCF83401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D799EF4-C12F-44FF-8F35-C4E3BCF83401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FB1525-D9C8-4EA6-86DA-A37D4E7569FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FB1525-D9C8-4EA6-86DA-A37D4E7569FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FB1525-D9C8-4EA6-86DA-A37D4E7569FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FB1525-D9C8-4EA6-86DA-A37D4E7569FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CAC921-2AB3-4293-BBA1-DF565313A8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CAC921-2AB3-4293-BBA1-DF565313A8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CAC921-2AB3-4293-BBA1-DF565313A8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CAC921-2AB3-4293-BBA1-DF565313A8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4B3BB7-0723-494A-8D88-1B10529EC543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4B3BB7-0723-494A-8D88-1B10529EC543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4B3BB7-0723-494A-8D88-1B10529EC543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4B3BB7-0723-494A-8D88-1B10529EC543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CEE1899-A227-46E6-A72B-AE7ED0E5DF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEE1899-A227-46E6-A72B-AE7ED0E5DF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEE1899-A227-46E6-A72B-AE7ED0E5DF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEE1899-A227-46E6-A72B-AE7ED0E5DF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900215D2-76A7-46BD-AD62-A3A02B608627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900215D2-76A7-46BD-AD62-A3A02B608627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900215D2-76A7-46BD-AD62-A3A02B608627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900215D2-76A7-46BD-AD62-A3A02B608627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29CB2286-6658-46E8-906F-A1E29E103139}
+	EndGlobalSection
+EndGlobal
